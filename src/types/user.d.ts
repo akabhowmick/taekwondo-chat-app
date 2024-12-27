@@ -13,6 +13,7 @@ export enum UserRole {
   Parent = "parent",
   Student = "student",
   Instructor = "instructor",
+  
 }
 
 // Parent Interface
